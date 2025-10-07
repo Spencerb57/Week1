@@ -1,4 +1,4 @@
-print("Hola, Mundo!")
+print("Hello, world!")
 
 studentName = "Spencer"
 
